@@ -12,11 +12,13 @@ The major aim of this project is to analyze coffee sales data to uncover meaning
 -  Examine Temporal Trends by investigating daily, weekly, monthly, and seasonal sales patterns.
  ### DATASET DESCRIPTION
  The Jerome Coffee Sales dataset contains transactional records from a coffee shop business, capturing details of products sold, sales quantities, pricing, transaction dates, and revenue generated. The dataset is designed to support sales performance analysis, customer purchasing behavior studies.
-The dataset supports business intelligence tasks such as:
-
-Revenue analysis
-Customer behavior analysis
-Product performance evaluation
-Time-series (monthly & hourly) analysis
+The dataset allows analysis of:
+- Best-selling coffee types (Latte, Americano, etc.)
+- Peak sales periods (Night, Morning, Afternoon)
+- Monthly revenue trends
+- Payment preferences (Card dominates Cash)
+- Customer purchase behavior
 ### DATA CLEANING PROCESS
+The Jerome Coffee Sales dataset was cleaned through a systematic process involving data inspection, handling missing values, duplicate removal, data type correction, standardization, feature engineering, and validation. These steps ensured high data quality, enabling accurate analysis and reliable business insights through the Power BI dashboard.
 Data Inspection and Understanding; 
+
